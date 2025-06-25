@@ -1,0 +1,22 @@
+/
+/help
+/starthg
+/kill
+/starthg
+/summon minecraft:happy_ghast
+/starthg
+/resethg
+/gamemode creative
+/starthg
+/gamemode creative
+/starthg
+/resethg
+/starthg
+/resethg
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/starthg
+/tntcannon
+/gamemode creative
+/tntcannon
